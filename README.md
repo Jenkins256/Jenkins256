@@ -6,6 +6,8 @@
 - 😄 He/Him
 - ⚡ My very first attempt at coding was C++ for Operational Flashpoint in the year 2000s!
 
+- Currently going through coding bootcamp so uploading all my files on here
+
 <!---
 Jenkins256/Jenkins256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
